@@ -47,7 +47,7 @@ Exemplos de como executar a Api Rest:
 ### Response
 
     HTTP/1.1 200 OK
-    Date: Thu, 13 Feb 2021 12:36:30 GMT
+    Date: Thu, 11 Feb 2021 12:36:30 GMT
     Status: 200 OK
     Connection: close
     Content-Type: application/json
